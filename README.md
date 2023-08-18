@@ -8,7 +8,7 @@ The Simple Music App API provides a simple and intuitive way to access music-rel
 
 ## Video Demo
 
-Check out our [Video Demo](file:///C:/Users/Hp/Downloads/Project%20video.mp4) to see the Simple Music App API in action.
+Check out our [App demo]https://drive.google.com/file/d/1GzQEmbLIE1fg6FuSfa_K1PNMVTlgqsL1/view?usp=drive_link) to see the Simple Music App API in action.
 
 ## Deployed Site
 
